@@ -1,1 +1,1 @@
-# spring_core
+# 김영한 Spring 기본편
